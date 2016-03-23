@@ -5,7 +5,7 @@ var Container = React.createClass({
   render: function () {
     return (
       <Wrapper>
-        <Welcome name={'Tyler'}/>
+        <Welcome name={'Spens'}/>
         <Hello />
       </Wrapper>
     )
